@@ -20,6 +20,9 @@ I'm Derrick Agyekum, also known as Kdad Junior. I'm passionate about coding and 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![Swift](https://img.shields.io/badge/-Swift-black?style=flat-square&logo=swift)
+![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
+![Assembly](https://img.shields.io/badge/-Assembly-black?style=flat-square&logo=gnuassembly)
 
 ### Frontend Development
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
@@ -32,6 +35,7 @@ I'm Derrick Agyekum, also known as Kdad Junior. I'm passionate about coding and 
 
 ### Other Tools
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Xcode](https://img.shields.io/badge/-Xcode-black?style=flat-square&logo=xcode)
 
 ---
 
