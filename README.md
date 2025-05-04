@@ -36,6 +36,7 @@ I'm Derrick Agyekum, also known as Kdad Junior. I'm passionate about coding and 
 ### Other Tools
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Xcode](https://img.shields.io/badge/-Xcode-black?style=flat-square&logo=xcode)
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
 
 ---
 
