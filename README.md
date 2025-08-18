@@ -3,7 +3,7 @@ I'm Derrick Agyekum, also known as Kdad Junior. I'm passionate about coding and 
 
 🌱 I’m currently learning Computer Science at Michigan State University.
 
-💖 I’m looking to collaborate on projects related to AI, Machine Learning, and Web Development. Take a look at my African style Market that I am building [KdadMarketPlace](https://www.kdadmarketplace.com/)
+💖 I’m looking to collaborate on projects related to AI, Machine Learning, iOS Development, and Web Development. Take a look at my African style Market that I am building [KdadMarketPlace](https://www.kdadmarketplace.com/)
 
 📬 How to reach me: [LinkedIn](https://www.linkedin.com/in/derrick-agyekum-23a09125b) | [Instagram](https://www.instagram.com/juniorkdad?igsh=MXJ2NTlkcTJkaWt2Mw%3D%3D&utm_source=qr)
 
