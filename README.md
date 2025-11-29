@@ -1,10 +1,5 @@
 Hi there! 👋  
-I'm **Derrick Agyekum**, also known as **Kdad Junior**. I'm passionate about coding and always eager to learn and grow. Remember to take a moment to breathe in, breathe out, and stay happy—because you're a champion! 🚀  
-
-🌱 I’m currently learning **Computer Science at Michigan State University**.  
-
-💖 I’m looking to collaborate on projects related to **AI, Machine Learning / Deep Learning, iOS Development, and Web Development**.  
-Take a look at my [Kdad-Library-App](https://www.loom.com/share/d31b32acaba248f0b7a40c9e2536de9b?sid=8c199dd5-7202-487e-a077-2251ef01c013) and my African style Market that I am building [KdadMarketPlace](https://www.kdadmarketplace.com/).  
+I am a junior at Michigan State University studying Computer Science with a concentration in Artificial Intelligence and serving as a University Distinguished Scholar. I enjoy building end-to-end systems— from iOS apps like my Kdad Library App to secure Flask/PostgreSQL backends and Airflow-driven ML pipelines deployed with Docker and FastAPI. My technical experience spans Python, Java, C++, Swift/UIKit, JavaScript, SQL/NoSQL databases, PyTorch, and modern ML/RAG workflows using cloud APIs. I’m passionate about applying AI/ML to real-world problems and mentoring others through my work as a Lead Mentor in the Honors College. 
 
 📬 How to reach me: [LinkedIn](https://www.linkedin.com/in/derrick-agyekum-23a09125b) | [Instagram](https://www.instagram.com/juniorkdad?igsh=MXJ2NTlkcTJkaWt2Mw%3D%3D&utm_source=qr)  
 
