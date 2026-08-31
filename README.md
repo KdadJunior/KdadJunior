@@ -1,5 +1,18 @@
-Hi there! 👋  
-I am Derrick Agyekum, a junior at Michigan State University studying Computer Science with a concentration in Artificial Intelligence. I enjoy building end-to-end systems — from iOS apps like my Kdad Library App to secure Flask/PostgreSQL backends and Airflow-driven ML pipelines deployed with Docker and FastAPI. My technical experience spans Python, Java, C++, Swift/UIKit, JavaScript, SQL/NoSQL databases, PyTorch, and modern ML/RAG workflows using cloud APIs. I’m passionate about applying AI/ML to real-world problems and mentoring others through my work as a Lead Mentor in the Honors College. 
+## Hi, I'm Derrick 👋
+
+I'm a Computer Science student at Michigan State University focused on **AI/ML engineering, software systems, and scientific computing**.
+
+I recently worked as an **AI/ML Engineering Intern at the Center for Western Weather and Water Extremes (CW3E), Scripps Institution of Oceanography**, where I built and productionized operational forecasting and PRISM-based verification workflows for the **408-member West-WRF AI ensemble**. My work involved Python, MLOps, AWARE HPC, Slurm, xarray, NetCDF, PRISM, and Cartopy to support large-scale ensemble processing, probabilistic weather products, and reproducible forecast evaluation.
+
+I'm also the **Co-Founder & CTO of Badaye Sports**, where I lead the technical direction of a sports technology platform across web, backend, cloud infrastructure, and mobile development using React, React Native, TypeScript, FastAPI, PostgreSQL, AWS, and Docker.
+
+Alongside this, I conduct **machine learning research in medical imaging**, developing ML pipelines for kidney tumor and cyst segmentation and grading.
+
+I'm especially interested in building **reliable, scalable AI systems that move beyond prototypes into real-world production**.
+
+### Tech
+`Python` `JavaScript` `Java` `C++` `PyTorch` `TensorFlow` `CUDA` `Linux`  
+`FastAPI` `Flask` `React` `Docker` `Kubernetes` `PostgreSQL` `AWS` `Slurm` 
 
 📬 How to reach me: [LinkedIn](https://www.linkedin.com/in/derrick-agyekum-23a09125b) | [Instagram](https://www.instagram.com/juniorkdad?igsh=MXJ2NTlkcTJkaWt2Mw%3D%3D&utm_source=qr)  
 
