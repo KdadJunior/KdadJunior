@@ -4,7 +4,7 @@ I'm a Computer Science student at Michigan State University focused on **AI/ML e
 
 I recently worked as an **AI/ML Engineering Intern at the Center for Western Weather and Water Extremes (CW3E), Scripps Institution of Oceanography**, where I built and productionized operational forecasting and PRISM-based verification workflows for the **408-member West-WRF AI ensemble**. My work involved Python, MLOps, AWARE HPC, Slurm, xarray, NetCDF, PRISM, and Cartopy to support large-scale ensemble processing, probabilistic weather products, and reproducible forecast evaluation.
 
-I'm also the **Co-Founder & CTO of Badaye Sports**, where I lead the technical direction of a sports technology platform across web, backend, cloud infrastructure, and mobile development using React, React Native, TypeScript, FastAPI, PostgreSQL, AWS, and Docker.
+I'm also the **Co-Founder & CTO of Badaye**, where I lead the technical direction of a sports technology platform across web, backend, cloud infrastructure, and mobile development using React, React Native, TypeScript, FastAPI, PostgreSQL, AWS, and Docker.
 
 Alongside this, I conduct **machine learning research in medical imaging**, developing ML pipelines for kidney tumor and cyst segmentation and grading.
 
